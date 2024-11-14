@@ -1,0 +1,6 @@
+cmd        "pcmanfm-qt"
+oc-cmd     "evince;icon:evince"
+oc-cmd     "gimp;icon:gimp"
+depth      10
+
+open-parent-as-self
