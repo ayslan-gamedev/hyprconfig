@@ -5,7 +5,7 @@ configuration {
     show-icons: true;
     max-lines: 3;
 
-    modes: "window,drun,run,ssh,filebrowser";
+    modes: "window,drun,run,ssh,filebrowser,cliphist:~/.config/rofi/custom_modes/cliphist-rofi-img.sh";
     terminal: "kitty";
 /*	ssh-client: "ssh";*/
 /*	ssh-command: "{terminal} -e {ssh-client} {host} [-p {port}]";*/
